@@ -1,0 +1,24 @@
+@media (max-width: 1024px) {
+	main {
+		background-position: 100% 50%;
+	}
+	#section {
+		$font-size: 8rem;
+		&-main {
+			.title {
+				font-size: $font-size;
+			}
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	#section {
+		$font-size: 4rem;
+		&-main {
+			.title {
+				font-size: $font-size;
+			}
+		}
+	}
+}
