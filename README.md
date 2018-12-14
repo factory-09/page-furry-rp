@@ -4,7 +4,7 @@
 
 ## Авторы
 
-- [**Kitsune Solar**](https://kitsune.solar/) - разработчик.
+- [Kitsune Solar](https://kitsune.solar/) - разработчик.
 
 ## Ссылки
 
@@ -14,5 +14,5 @@
 
 ## Платформа
 
-- [**METADATA / FOUNDATION**](https://metadata.foundation/) - поддержка и разработка открытых проектов.
-- [**METASTORE**](https://metastore.pro/) - хранилище открытых проектов [**METADATA**](https://metadata.foundation/).
+- [METADATA / FOUNDATION](https://metadata.foundation/) - поддержка и разработка открытых проектов.
+- [METASTORE](https://metastore.pro/) - хранилище открытых проектов [**METADATA**](https://metadata.foundation/).
