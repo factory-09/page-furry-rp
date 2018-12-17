@@ -11,7 +11,8 @@
 - [Поддержка](https://webmasters.community/)
 - [Исходный код](https://github.com/factory-09/page-furry-rp)
 - [Журнал изменений](CHANGELOG.md)
-- [Кодекс поведения](CODE_OF_CONDUCT.md)
+- [Кодекс поведения (EN)](CODE_OF_CONDUCT.en.md)
+- [Кодекс поведения (RU)](CODE_OF_CONDUCT.ru.md)
 - [Правила участия в разработке](CONTRIBUTING.md)
 - [Сообщить о проблеме](https://github.com/factory-09/page-furry-rp/issues)
 
