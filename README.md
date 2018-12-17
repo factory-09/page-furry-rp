@@ -10,6 +10,9 @@
 
 - [Поддержка](https://webmasters.community/)
 - [Исходный код](https://github.com/factory-09/page-furry-rp)
+- [Журнал изменений](CHANGELOG.md)
+- [Кодекс поведения](CODE_OF_CONDUCT.md)
+- [Правила участия в разработке](CONTRIBUTING.md)
 - [Сообщить о проблеме](https://github.com/factory-09/page-furry-rp/issues)
 
 ## Платформа
