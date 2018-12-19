@@ -1,6 +1,6 @@
 # Информация
 
-Страничка [FurryRP.INFO](https://furryrp.info/).
+Страничка [furryrp.info](https://furryrp.info/).
 
 ## Авторы
 
